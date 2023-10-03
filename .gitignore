@@ -1,3 +1,8 @@
 __pycache__
 .vscode
 .pytest_cache
+artist.py
+artist_repository.py
+blog_posts_tags.sql
+music_library.sql
+student_directory_2.sql
